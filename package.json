@@ -1,0 +1,20 @@
+{
+  "name": "ze-react-onboarding-mock-server",
+  "version": "1.0.0",
+  "description": "Mock server for the react app to be developed while onboarding a candidate to the project",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "expressjs"
+  ],
+  "author": "Anvesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.3"
+  }
+}
